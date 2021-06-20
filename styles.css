@@ -1,6 +1,8 @@
 body {
   background-color: black;
 }
+
+
 hr {
 border-style: none;
 border-top-style: dotted;
@@ -41,6 +43,11 @@ color: red;
 h3{
 color:white;
 font-family: arial;
+
+}
+
+H1{
+color: white;
 
 }
 
